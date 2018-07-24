@@ -13,15 +13,7 @@
 #### 1.目录
 文件目录：
 ```
-fashionai_demo
-├── train.sh
-├── data
-│   ├── base
-│   ├── rank
-│   └── web
-├── prepare_data.py
-├── README.md
-└── ...
+
 ```
 #### 2.准备数据
 将`训练集`，`测试集`，`热身数据`分别放入`base`,`rank`,`web`
