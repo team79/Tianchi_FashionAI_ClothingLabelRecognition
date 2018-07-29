@@ -1,5 +1,7 @@
 # attribute recognition
 这个比赛当时和杭电的陶星一起组队的，然后也加了一些其他人，但是主要是我和陶星在做。一段很棒的经历，水平提升不少。最终排名：7/2950
+
+比赛总结：https://blog.csdn.net/hzh_0000/article/details/81149268
 #### 环境
 `pytorch`, #版本0.3.0or0.3.1
 
